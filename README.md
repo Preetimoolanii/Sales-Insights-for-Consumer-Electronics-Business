@@ -1,1 +1,3 @@
-# Sales-Insights-for-Consumer-Electronics-Business
+# Sales Insights for Consumer Electronics Business
+
+Live Interactive Dashboard: https://app.powerbi.com/view?r=eyJrIjoiYmM5YjVmNDAtMjBiNS00YzlkLTkxMWUtZGM2MzI1YmE1ZGZlIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
